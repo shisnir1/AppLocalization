@@ -1,0 +1,9 @@
+/* 
+  Localizable.strings
+  appLocalization
+
+  Created by TTN on 28/04/20.
+  Copyright © 2020 TTN. All rights reserved.
+*/
+"text" = "HI";
+"image" = "eng_image";
